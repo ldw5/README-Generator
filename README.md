@@ -1,4 +1,4 @@
-# undefined
+# Professional README Generator
 https://github.com/undefined/README-Generator
 # Description
 App allows developers to create a professional readme file
@@ -21,5 +21,5 @@ Contributors: N/A
 # Tests
 The following is needed to run the test: node index.js
 #Questions
-If you have any questions please contact undefined
+If you have any questions please contact dontess5@yahoo.com
 
